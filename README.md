@@ -1,1 +1,2 @@
 # Multilingual-NLP-pipeline
+Red Hen has news recordings of 100+ hours each day. They range across multiple countries and languages. This means that Red Hen can run NLP processing on a wide range of files. This project aims to create a multilingual pipeline which has further specifications for each language with the country and channel specific data. Several NLP tasks would be performed on the text data acquired in these languages. This pipeline would ultimately run inside singularity container on CWRU HPC.
